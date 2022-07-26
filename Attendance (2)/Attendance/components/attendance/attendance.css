@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navcol:hover{
+    background-color: rgb(216, 75, 19);
+}
+.active{
+    background-color: rgb(216,75,19);
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    padding-left: 10px;
+}
+
+.btn{
+    padding: 0 10px;
+    font-weight: bold;
+}
+.insert{
+    margin-top: 100px;
+    
+}
+.input{
+    font-weight: bolder;
+}
+.table{
+    margin-top: 10px;
+}
