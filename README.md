@@ -1,4 +1,4 @@
-In this project we have build login logout flow which will be connected with the database(student detials) using JAVA (JDBC connection).
+In this project we have build login logout flow which will be connected with the database(student details) using JAVA (JDBC connection).
 The UI also contains other functional buttons other than login logout.
 The form submission data is connected to the database.
 This is all about the project.
